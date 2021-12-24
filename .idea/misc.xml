@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/KULIAH/Praktikum/Progmob/shimo-main/shimo-main/app/src/main/res/drawable/add.xml" value="0.20052083333333334" />
+        <entry key="..\:/KULIAH/Praktikum/Progmob/shimo-main/shimo-main/app/src/main/res/drawable/gray_bg.xml" value="0.20052083333333334" />
+        <entry key="..\:/KULIAH/Praktikum/Progmob/shimo-main/shimo-main/app/src/main/res/layout/activity_account.xml" value="0.10144927536231885" />
+        <entry key="..\:/KULIAH/Praktikum/Progmob/shimo-main/shimo-main/app/src/main/res/layout/activity_home.xml" value="0.16666666666666666" />
+        <entry key="..\:/KULIAH/Praktikum/Progmob/shimo-main/shimo-main/app/src/main/res/layout/activity_login.xml" value="0.10144927536231885" />
+        <entry key="..\:/KULIAH/Praktikum/Progmob/shimo-main/shimo-main/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Microsoft/AndroidStudioProjects/shimo-main/app/src/main/res/drawable/ic_launcher_background.xml" value="0.15648148148148147" />
+        <entry key="..\:/Users/Microsoft/AndroidStudioProjects/shimo-main/app/src/main/res/layout/activity_account.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Microsoft/AndroidStudioProjects/shimo-main/app/src/main/res/layout/activity_detail.xml" value="0.1" />
+        <entry key="..\:/Users/Microsoft/AndroidStudioProjects/shimo-main/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/Microsoft/AndroidStudioProjects/shimo-main/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Microsoft/AndroidStudioProjects/shimo-main/app/src/main/res/layout/activity_main_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Microsoft/AndroidStudioProjects/shimo-main/app/src/main/res/layout/activity_register.xml" value="0.18" />
+        <entry key="..\:/Users/Microsoft/AndroidStudioProjects/shimo-main/app/src/main/res/layout/alert_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/Microsoft/AndroidStudioProjects/shimo-main/app/src/main/res/menu/detail_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Microsoft/AndroidStudioProjects/shimo-main/app/src/main/res/menu/main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Microsoft/Documents/Folder Tara Kuliah/shimo-main/app/src/main/res/layout/activity_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Microsoft/Documents/Folder Tara Kuliah/shimo-main/app/src/main/res/layout/add_jurnal.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Microsoft/Documents/Folder Tara Kuliah/shimo-main/app/src/main/res/layout/alert_journal.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/shimo-main/app/src/main/res/drawable/ic_date.xml" value="0.10925925925925926" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/shimo-main/app/src/main/res/drawable/ic_person.xml" value="0.1" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/shimo-main/app/src/main/res/layout/activity_account.xml" value="0.14427083333333332" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/shimo-main/app/src/main/res/layout/activity_detail.xml" value="0.2644927536231884" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/shimo-main/app/src/main/res/layout/activity_home.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/shimo-main/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/shimo-main/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/shimo-main/app/src/main/res/layout/add_jurnal.xml" value="0.2644927536231884" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/shimo-main/app/src/main/res/layout/alert_dialog.xml" value="0.264" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/shimo-main/app/src/main/res/layout/item_journal.xml" value="0.2644927536231884" />
+        <entry key="..\:/shimo/app/src/main/res/drawable/add.xml" value="0.2703125" />
+        <entry key="..\:/shimo/app/src/main/res/drawable/gray_bg.xml" value="0.2703125" />
+        <entry key="..\:/shimo/app/src/main/res/drawable/white_card.xml" value="0.18489583333333334" />
+        <entry key="..\:/shimo/app/src/main/res/drawable/white_card_round.xml" value="0.24479166666666666" />
+        <entry key="..\:/shimo/app/src/main/res/layout/activity_detail.xml" value="0.17760416666666667" />
+        <entry key="..\:/shimo/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/shimo/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/shimo/app/src/main/res/layout/add_jurnal.xml" value="0.30943738656987296" />
+        <entry key="..\:/shimo/app/src/main/res/layout/item_journal.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

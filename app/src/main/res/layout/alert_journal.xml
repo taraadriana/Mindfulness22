@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <TextView
+        android:id="@+id/ad_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="JOURNAL PREVIEW"
+        android:textSize="20sp"
+        android:fontFamily="@font/amaranth_bold"
+        android:layout_gravity="center_horizontal"
+        android:textColor="@color/black"
+        android:layout_marginBottom="20dp"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/title_bestThing"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/acme"
+            android:text="The Best Thing                 :   "
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/username"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10sp"
+            android:layout_toRightOf="@id/title_bestThing"
+            android:fontFamily="@font/acme"
+            android:text="bestThing"
+            android:textColor="@color/black"
+            android:textSize="16sp"/>
+
+        <TextView
+            android:id="@+id/title_worstThing"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/acme"
+            android:layout_below="@id/title_bestThing"
+            android:text="The Worst Thing             :   "
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/password"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10sp"
+            android:layout_toRightOf="@id/title_worstThing"
+            android:fontFamily="@font/acme"
+            android:layout_below="@id/username"
+            android:text="worstThing"
+            android:textColor="@color/black"
+            android:textSize="16sp"/>
+
+        <TextView
+            android:id="@+id/title_rate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/title_worstThing"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/acme"
+            android:text="Rate Day                                 :   "
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/seekRate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/password"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@id/title_rate"
+            android:text="rate"
+            android:textColor="@color/black"
+            android:fontFamily="@font/acme"
+            android:textSize="16sp"/>
+
+        <TextView
+            android:id="@+id/title_rb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_below="@id/title_rate"
+            android:text="My Day Went                      :   "
+            android:textColor="@color/black"
+            android:fontFamily="@font/acme"
+            android:textSize="16sp"/>
+
+        <TextView
+            android:id="@+id/radioResult"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/seekRate"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@id/title_rb"
+            android:fontFamily="@font/acme"
+            android:text="my day went"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/title_cb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_below="@id/title_rb"
+            android:text="I did today                              :   "
+            android:textColor="@color/black"
+            android:fontFamily="@font/acme"
+            android:textSize="16sp"/>
+
+        <TextView
+            android:id="@+id/checkResult"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/radioResult"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@id/title_rb"
+            android:text="i did today"
+            android:textColor="@color/black"
+            android:fontFamily="@font/acme"
+            android:textSize="16sp"/>
+
+        <TextView
+            android:id="@+id/datetime"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/title_cb"
+            android:text="date"
+            android:layout_marginTop="100dp"
+            android:textColor="@color/black"
+            android:fontFamily="@font/acme"
+            android:textSize="16sp"/>
+
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <TextView
+        android:id="@+id/ad_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="FORM REGISTER"
+        android:textSize="20sp"
+        android:fontFamily="@font/amaranth_bold"
+        android:layout_gravity="center_horizontal"
+        android:textColor="@color/black"
+        android:layout_marginBottom="20dp"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/title_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/acme"
+            android:text="Name                 :   "
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/ad_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10sp"
+            android:layout_toRightOf="@id/title_name"
+            android:fontFamily="@font/acme"
+            android:text="Nama"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/title_email"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/title_name"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/acme"
+            android:text="Email                   :   "
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/ad_email"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10sp"
+            android:layout_toRightOf="@id/title_email"
+            android:layout_below="@id/ad_name"
+            android:text="email"
+            android:textColor="@color/black"
+            android:fontFamily="@font/acme"
+            android:textSize="16sp"/>
+
+        <TextView
+            android:id="@+id/title_username"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/title_email"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/acme"
+            android:text="Username      :   "
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/ad_username"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/ad_email"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@id/title_username"
+            android:fontFamily="@font/acme"
+            android:text="username"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/title_password"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/title_username"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/acme"
+            android:text="Password        :   "
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/ad_password"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/ad_username"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@id/title_password"
+            android:fontFamily="@font/acme"
+            android:text="password"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/title_age"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_below="@id/title_password"
+            android:text="Age                        :   "
+            android:textColor="@color/black"
+            android:fontFamily="@font/acme"
+            android:textSize="16sp"/>
+
+        <TextView
+            android:id="@+id/ad_age"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/ad_password"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@id/title_age"
+            android:text="age"
+            android:textColor="@color/black"
+            android:fontFamily="@font/acme"
+            android:textSize="16sp"/>
+
+        <TextView
+            android:id="@+id/title_gender"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_below="@id/title_age"
+            android:text="Gender              :   "
+            android:textColor="@color/black"
+            android:fontFamily="@font/acme"
+            android:textSize="16sp"/>
+
+        <TextView
+            android:id="@+id/ad_gender"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/ad_age"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@id/title_gender"
+            android:text="Gender"
+            android:textColor="@color/black"
+            android:fontFamily="@font/acme"
+            android:textSize="16sp"/>
+
+    </RelativeLayout>
+</LinearLayout>
